@@ -1,6 +1,6 @@
 {
   "name": "hosted-gateway",
-  "version": "1.0.0",
+  "version": "0.0.1-0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,7 @@
     "http-proxy-middleware": "^2.0.6",
     "lowdb": "^5.0.5",
     "response-time": "^2.3.2",
+    "vhost": "^3.0.2",
     "winston": "^3.8.2"
   },
   "devDependencies": {
